@@ -1,0 +1,102 @@
+Date,Sequence Number,Service Provider Name,Location,Type,Service Class,Discount Sum,Amount,Balance
+12/30/2023 6:53:42 pm,1447,Toronto Transit Commission,BLOOR,Transit Pass Payment,Regular,0,0,0
+12/30/2023 6:04:08 pm,1446,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/30/2023 3:36:44 pm,1445,Toronto Transit Commission,LAWR,Transit Pass Payment,Regular,0,0,0
+12/30/2023 2:37:02 pm,1444,Toronto Transit Commission,FINCH,Transit Pass Payment,Regular,0,0,0
+12/30/2023 2:05:01 pm,1443,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/25/2023 2:55:07 pm,1442,Toronto Transit Commission,Yonge St At Churchill Ave,Transit Pass Payment,Regular,0,0,0
+12/25/2023 2:42:09 pm,1441,Toronto Transit Commission,Yonge St At Sheppard Ave East North Side (Sheppard Station),Transit Pass Payment,Regular,0,3.3,0
+12/24/2023 1:06:42 pm,1440,Toronto Transit Commission,FINCH,Transit Pass Payment,Regular,0,0,0
+12/24/2023 12:44:08 pm,1439,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/23/2023 6:52:55 pm,1438,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/23/2023 6:30:07 pm,1437,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/23/2023 1:28:33 pm,1436,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/23/2023 1:13:40 pm,1435,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/22/2023 10:03:18 pm,1434,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,3.3,0
+12/22/2023 7:19:09 pm,1433,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/21/2023 11:41:45 pm,1432,Toronto Transit Commission,Spadina Ave At College St North Side,Transit Pass Payment,Regular,0,3.3,0
+12/21/2023 6:17:44 pm,1431,Toronto Transit Commission,Spadina Ave At Nassau St South Side,Transit Pass Payment,Regular,0,0,0
+12/21/2023 5:44:13 pm,1430,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/21/2023 2:17:46 pm,1429,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/19/2023 1:08:53 pm,1428,Toronto Transit Commission,FINCH,Transit Pass Payment,Regular,0,0,0
+12/19/2023 12:50:43 pm,1427,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/18/2023 1:52:43 pm,1426,Toronto Transit Commission,FINCH,Transit Pass Payment,Regular,0,0,0
+12/18/2023 1:34:20 pm,1425,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/17/2023 8:04:30 pm,1424,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/17/2023 7:49:28 pm,1423,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/17/2023 7:02:20 pm,1422,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/17/2023 4:50:59 pm,1421,Toronto Transit Commission,WELSLY,Transit Pass Payment,Regular,0,0,0
+12/17/2023 4:17:05 pm,1420,Toronto Transit Commission,QUEEN,Transit Pass Payment,Regular,0,3.3,0
+12/17/2023 2:16:30 pm,1419,Toronto Transit Commission,QUEEN,Transit Pass Payment,Regular,0,0,0
+12/17/2023 12:27:42 pm,1418,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/17/2023 1:08:37 am,1417,Toronto Transit Commission,STPAT,Transit Pass Payment,Regular,0,3.3,0
+12/16/2023 8:27:53 pm,1416,Toronto Transit Commission,KEELE,Transit Pass Payment,Regular,0,3.3,0
+12/16/2023 4:02:14 pm,1415,Toronto Transit Commission,QPARK,Transit Pass Payment,Regular,0,3.3,0
+12/16/2023 1:39:08 pm,1414,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/16/2023 12:36:27 pm,1413,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,3.3,0
+12/16/2023 11:58:08 am,1412,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/14/2023 9:29:45 pm,1411,Toronto Transit Commission,DUFF,Transit Pass Payment,Regular,0,0,0
+12/14/2023 9:26:30 pm,1410,Toronto Transit Commission,Dufferin St At Dupont St South Side,Transit Pass Payment,Regular,0,3.3,0
+12/14/2023 7:22:54 pm,1409,Toronto Transit Commission,Dupont St At Ossington Ave West Side,Transit Pass Payment,Regular,0,0,0
+12/14/2023 6:58:55 pm,1408,Toronto Transit Commission,Shaw St At Queen St West,Transit Pass Payment,Regular,0,3.3,0
+12/14/2023 4:40:42 pm,1407,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/14/2023 2:37:43 pm,1406,Toronto Transit Commission,Sheppard Ave West At Bathurst St,Transit Pass Payment,Regular,0,3.3,0
+12/14/2023 2:09:47 pm,1405,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/14/2023 2:02:41 pm,1404,Toronto Transit Commission,Yonge St At Churchill Ave,Transit Pass Payment,Regular,0,0,0
+12/14/2023 1:46:09 pm,1403,Toronto Transit Commission,Yonge St At Sheppard Ave East North Side (Sheppard Station),Transit Pass Payment,Regular,0,0,0
+12/14/2023 12:36:03 pm,1402,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/13/2023 8:15:36 pm,1401,Toronto Transit Commission,Sheppard Ave West At Keele St,Transit Pass Payment,Regular,0,0,0
+12/13/2023 8:11:15 pm,1400,Toronto Transit Commission,Keele St At St Regis Cres,Transit Pass Payment,Regular,0,0,0
+12/13/2023 7:16:09 pm,1399,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/13/2023 6:46:14 pm,1398,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/13/2023 2:05:51 pm,1397,Toronto Transit Commission,Yonge St At Park Home Ave (North York Centre Station),Transit Pass Payment,Regular,0,0,0
+12/13/2023 1:48:06 pm,1396,Toronto Transit Commission,Yonge St At Sheppard Ave East North Side (Sheppard Station),Transit Pass Payment,Regular,0,3.3,0
+12/10/2023 5:27:48 pm,1395,Toronto Transit Commission,Ossington Ave At Dundas St West North Side,Transit Pass Payment,Regular,0,0,0
+12/10/2023 5:03:39 pm,1394,Toronto Transit Commission,Ossington Ave At Hallam St,Transit Pass Payment,Regular,0,3.3,0
+12/10/2023 12:23:23 pm,1393,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/09/2023 9:50:35 pm,1392,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/09/2023 9:24:31 pm,1391,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/09/2023 7:00:54 pm,1390,Toronto Transit Commission,Shaw St At Queen St West,Transit Pass Payment,Regular,0,3.3,0
+12/09/2023 6:13:16 pm,1389,Toronto Transit Commission,Ossington Ave At College St,Transit Pass Payment,Regular,0,0,0
+12/09/2023 5:57:06 pm,1388,Toronto Transit Commission,College St At Dufferin St,Transit Pass Payment,Regular,0,0,0
+12/09/2023 5:12:11 pm,1387,Toronto Transit Commission,Dufferin St At Bloor St West (Dufferin Station),Transit Pass Payment,Regular,0,0,0
+12/09/2023 4:48:31 pm,1386,Toronto Transit Commission,STCLR,Transit Pass Payment,Regular,0,3.3,0
+12/09/2023 12:21:08 pm,1385,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/09/2023 12:42:15 am,1384,Toronto Transit Commission,COLLG,Transit Pass Payment,Regular,0,0,0
+12/09/2023 12:33:56 am,1383,Toronto Transit Commission,Gerrard St East At Parliament St,Transit Pass Payment,Regular,0,3.3,0
+12/08/2023 8:52:05 pm,1382,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/08/2023 12:54:23 pm,1381,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/08/2023 11:31:17 am,1380,Toronto Transit Commission,STCLR,Transit Pass Payment,Regular,0,3.3,0
+12/08/2023 8:53:53 am,1379,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/07/2023 7:56:27 pm,1378,Toronto Transit Commission,WELSLY,Transit Pass Payment,Regular,0,0,0
+12/07/2023 7:11:40 pm,1377,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/07/2023 6:09:07 pm,1376,Toronto Transit Commission,FINCH,Transit Pass Payment,Regular,0,3.3,0
+12/07/2023 1:23:56 pm,1375,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/06/2023 8:55:52 pm,1374,Toronto Transit Commission,DUFF,Transit Pass Payment,Regular,0,0,0
+12/06/2023 8:51:53 pm,1373,Toronto Transit Commission,Dufferin St At Geary Ave,Transit Pass Payment,Regular,0,3.3,0
+12/06/2023 6:47:02 pm,1372,Toronto Transit Commission,Dufferin St At Bloor St West (Dufferin Station),Transit Pass Payment,Regular,0,0,0
+12/06/2023 6:09:21 pm,1371,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/06/2023 2:59:42 pm,1370,Toronto Transit Commission,Yonge St At Churchill Ave,Transit Pass Payment,Regular,0,0,0
+12/06/2023 2:16:06 pm,1369,Toronto Transit Commission,Yonge St At Sheppard Ave East North Side (Sheppard Station),Transit Pass Payment,Regular,0,3.3,0
+12/06/2023 12:32:55 am,1368,Toronto Transit Commission,RNMEDE,Transit Pass Payment,Regular,0,0,0
+12/06/2023 12:28:42 am,1367,Toronto Transit Commission,Runnymede Rd At Dundas St West,Transit Pass Payment,Regular,0,3.3,0
+12/05/2023 9:22:33 pm,1366,Toronto Transit Commission,RNMEDE,Transit Pass Payment,Regular,0,0,0
+12/05/2023 8:40:07 pm,1365,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/05/2023 1:19:08 pm,1364,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,3.3,0
+12/05/2023 12:38:40 pm,1363,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/04/2023 9:48:34 pm,1362,Toronto Transit Commission,College St At Ossington Ave,Transit Pass Payment,Regular,0,3.3,0
+12/04/2023 5:36:58 pm,1361,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/04/2023 12:55:55 pm,1360,Toronto Transit Commission,WELSLY,Transit Pass Payment,Regular,0,0,0
+12/04/2023 12:22:39 pm,1359,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,"3,3",0
+12/03/2023 8:47:49 pm,1358,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/03/2023 8:26:42 pm,1357,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/03/2023 4:05:42 pm,1356,Toronto Transit Commission,DUND,Transit Pass Payment,Regular,0,3.3,0
+12/03/2023 3:08:21 pm,1355,Toronto Transit Commission,NYCTR,Transit Pass Payment,Regular,0,0,0
+12/03/2023 1:51:07 pm,1354,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,0,0
+12/02/2023 6:39:38 pm,1353,Toronto Transit Commission,OSGOOD,Transit Pass Payment,Regular,0,3.3,0
+12/02/2023 11:18:19 am,1352,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
+12/01/2023 11:25:48 pm,1351,Toronto Transit Commission,Yonge St At Lawrence Ave East North Side (Lawrence Stn),Transit Pass Payment,Regular,0,0,0
+12/01/2023 10:55:45 pm,1350,Toronto Transit Commission,COLLG,Transit Pass Payment,Regular,0,0,0
+12/01/2023 10:46:22 pm,1349,Toronto Transit Commission,Gerrard St East At Parliament St,Transit Pass Payment,Regular,0,3.3,0
+12/01/2023 9:21:30 pm,1348,Toronto Transit Commission,Gerrard St East At Broadview Ave,Transit Pass Payment,Regular,0,0,0
+12/01/2023 8:35:14 pm,1347,Toronto Transit Commission,SHEP,Transit Pass Payment,Regular,0,3.3,0
